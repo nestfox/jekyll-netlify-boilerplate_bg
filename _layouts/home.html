@@ -15,8 +15,9 @@ layout: default
     <h3>Recent works</h3>
 
     <ul>
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:500 %}
         <li>
+          <img src="{% post.feature_img %}" />
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
