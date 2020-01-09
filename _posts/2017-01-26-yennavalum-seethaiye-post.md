@@ -9,8 +9,7 @@ categories: misc
 
 ![](/assets/img/uploads/yennavalum.webp)
 
-Yennavalum Seethaiye — Written and directed by : R.A.Sampath Kumar
-— Produced by : Vettimani Production
+Yennavalum Seethaiye — Written and directed by : R.A.Sampath Kumar — Produced by : Vettimani Production 
 — Presented by : TBB Entertainment
 — Cinematography: Amms
 — Music by: Sanje Siva
