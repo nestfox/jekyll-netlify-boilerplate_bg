@@ -7,3 +7,5 @@ intro_paragraph: 'Vilaga, Vilaga Ft. Series.'
 categories: misc
 ---
 ![](/assets/img/uploads/vilaga.webp)
+
+![](/assets/img/uploads/volag.webp)
