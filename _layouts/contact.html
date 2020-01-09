@@ -9,3 +9,138 @@ layout: default
 {{ content }}
 
 <!--- {% include contact-form.html %} --->
+
+
+<style>
+    
+    #progressbar {
+        width: 90%;
+  background-color: white !important;
+  border-radius: 1px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
+    
+
+#progressbar>div {
+  /* Adjust with JavaScript */
+  height: 5px;
+  border-radius: 1px;
+}
+    
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+    
+   #specx li { font-style: italic !important; }
+</style>
+
+    <div id="specx" class="row">
+              <div class="column">
+               <h3><i>GROWTH</i></h3>
+              <div id="progressbar" style="background-color: black;"><div style="background-color: blue;width:87%;"></div></div>
+                <ul>
+                    <li>
+                    <h3>Marketing Automation</h3>
+                    </li>
+                    <li>
+                    <h3>Growth Hacking</h3>
+                    </li>
+                    <li>
+                    <h3>Predictive Marketing</h3>
+                    </li>
+                    <li>
+                    <h3>Responsive Sales</h3>
+                    </li>
+                    <li>
+                    <h3>Big Ticket Sales</h3>
+                    </li>
+                </ul>  
+                </div>
+              <div class="column">
+                  <h3><i>CONVERSION</i></h3>
+                       <div id="progressbar" style="background-color: black;"><div style="background-color: green;width:90%;"></div></div>
+                 <ul>
+                    <li>
+                    <h3>Sales Automation</h3>
+                    </li>
+                    <li>
+                    <h3>Dynamic Lead Generation</h3>
+                    </li>
+                    <li>
+                    <h3>Lead Nurturing & Scoring</h3>
+                    </li>
+                      <li>
+                    <h3>Inbound Marketing</h3>
+                    </li>
+                     <li>
+                    <h3>Sales Assessments</h3>
+                    </li>
+                    </ul>
+                </div>
+       </div>
+         <div id="specx"  class="row">
+                <div class="column">
+                    <h3><i>STRATEGY</i></h3>
+                        <div id="progressbar" style="background-color: black;"><div style="background-color: red;width:85%;"></div></div>
+                <ul>
+                    <li>
+                    <h3>Sales Alignment</h3>
+                    </li>
+                    <li>
+                    <h3>Business Strategy</h3>
+                    </li>
+                    <li>
+                    <h3>Growth Consulting</h3>
+                    </li>
+                    <li>
+                    <h3>Enterprise Selling</h3>
+                    </li>
+                     <li>
+                     <h3>Sales Productivity</h3>
+                    </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3><i>RETENTION</i></h3>
+                    <div id="progressbar" style="background-color: black;"><div style="background-color: orange;width:75%;"></div></div>
+                <ul>
+                    <li>
+                    <h3>Sales Development</h3>
+                    </li>
+                    <li>
+                    <h3>Sales Intelligence</h3>
+                    </li>
+                    <li>
+                    <h3>Outsourced Sales Development</h3>
+                    </li>
+                    <li>
+                    <h3>Sales Enablement Consulting</h3>
+                    </li>
+                     <li>
+                    <h3>On-demand Sales</h3>
+                    </li>
+                    </ul>
+                </div>   
+           </div>  
+
