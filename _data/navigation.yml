@@ -4,9 +4,9 @@
   url: /
 - text: About
   url: /about
-- text: Contact
-  url: /contact
+  - text: Works
+  url: /blog
 - text: Showreel 🡥
   url: https://www.youtube.com/watch?v=ud0hUKASi7k&feature=youtu.be
-- text: Blog
-  url: /blog
+- text: Contact
+  url: /contact
