@@ -13,12 +13,11 @@ layout: default
  <!-- <h3>Posts</h3> --->
 
 <ul>
-    <!--- {% for post in site.posts %} -->
+    {% for post in site.posts %}
     <li>
+    <a href="{{ post.url }}">
 
-        <a href="{{ post.url }}">
-
-      {% assign foundImage = 0 %}
+    {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
         {% if image contains 'src' %}
@@ -33,7 +32,7 @@ layout: default
 
       <!--- {{ post.title }} --> </a>
     </li>
-    <!-- {% endfor %} --->
+    {% endfor %}
 </ul>
     
    <!--- {% for post in site.posts %}
