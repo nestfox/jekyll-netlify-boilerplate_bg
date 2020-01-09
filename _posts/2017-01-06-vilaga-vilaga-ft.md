@@ -10,9 +10,7 @@ categories: misc
 
 ![](/assets/img/uploads/volag.webp)
 
-
-
-**Vilaga Vilaga Sanje Siva Xavier | Sampath Kumar R A**
+**Vilaga Vilaga Sanje Siva Xavier | Sampath Kumar R A** 
 
 * Official Music Video Album: My Way
 * Song : Vilaga Vilaga Music: Sanje Siva (Jaffna)
