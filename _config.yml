@@ -16,7 +16,7 @@
 title: MadrasBox
 email: hello@madrasbox.com
 description: >- # this means to ignore newlines until "baseurl:"
-  MadrasBox is a startup by professional cinematic directors, freelance videographers, digital marketers, start-up enthusiast and software developers based in Chennai, India who have come together to bring you affordable digital solutions that employ digitally native vertical brand model.
+  MadrasBox creates High-impact Video Content That Are Optimised For Engagements. MadrasBox is a startup by professional cinematic directors, freelance videographers, digital marketers, start-up enthusiast and software developers based in Chennai, India who have come together to bring you affordable digital solutions that employ digitally native vertical brand model.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
