@@ -10,11 +10,10 @@ categories: misc
 
 ![](/assets/img/uploads/volag.webp)
 
-**Vilaga Vilaga Sanje Siva Xavier | Sampath Kumar R A** 
-
-* Official Music Video Album: My Way
-* Song : Vilaga Vilaga Music: Sanje Siva (Jaffna)
-* Lyrics: Xavier (Chennai Vocal: Srinivas (Super Singer Judge)
-* Direction: Sampath Kumar R A (Chennai)
-* Mixing: Sai Prabhakaran (Kerala)
-* Production: Tbb Entertainment (UK) & DME (US)
+Vilaga Vilaga Sanje Siva Xavier | Sampath Kumar R A  — Official Music Video Album: My Way
+— Song : Vilaga Vilaga Music: Sanje Siva (Jaffna)
+— Lyrics: Xavier (Chennai)
+— Vocal: Srinivas (Super Singer Judge)
+— Direction: Sampath Kumar R A (Chennai)
+— Mixing: Sai Prabhakaran (Kerala)
+— Production: Tbb Entertainment (UK) & DME (US)
