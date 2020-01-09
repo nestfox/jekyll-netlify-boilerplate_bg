@@ -17,6 +17,8 @@ layout: default
     {% for post in site.posts %}
     <li>
 
+    <a href="{{ post.url }}">
+      
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -30,7 +32,7 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <!--- {{ post.title }} --> </a>
     </li>
   {% endfor %}
     
