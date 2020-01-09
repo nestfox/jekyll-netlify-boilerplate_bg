@@ -17,7 +17,7 @@ layout: default
     <ul>
       {% for post in site.posts limit:500 %}
         <li>
-          <img src="{{% post.feature_img %}}" />
+          <img src="{{ post.feature_img }}" />
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
