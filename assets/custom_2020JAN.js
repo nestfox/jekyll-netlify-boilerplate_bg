@@ -1,3 +1,4 @@
+  <script>
   var myIndex = 0;
   carousel();
 
@@ -12,3 +13,4 @@
   x[myIndex-1].style.display = "block";  
   setTimeout(carousel, 5000);
   }
+</script>
