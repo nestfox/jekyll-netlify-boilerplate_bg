@@ -42,3 +42,18 @@ html, body, .containerx {
     align-items: center  !important;
     justify-content: center  !important;
 }
+
+video {
+margin-top: -500px !important;
+}
+
+
+
+
+@media (max-width: 1000px) {
+
+      body {
+            background: yellow !important;
+       }
+
+}
