@@ -4,6 +4,6 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [MadrasBox](/about) is a media production startup based in Chennai, India that delivers high-impact creative video content optimized for engagements. We focus on delivering full service [video production](/blog) everything from strategy to production.
+  [AutoZpa](/about) is a auto cleaning services startup based in Chennai, India. We focus on delivering full service [car detailing services](/blog) from cleaning to polishing.
 ---
-We specialize in making Corporate Videos, TV Commercials, Motion Graphics, Post Production Services, Video Editing Services, Documentry Film Making. Connect with us. Yes, we are a call away. Reach us on 99621 86837.
+Connect with us. Yes, we are a call away. Reach us on 1800-AUTO-ZPA.
