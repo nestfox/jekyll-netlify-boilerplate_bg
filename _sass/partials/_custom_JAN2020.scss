@@ -46,3 +46,7 @@ html, body, .containerx {
 
 
 @media (max-width: 1000px) { .containerx { margin-top: 0px !important; } }
+
+.header>h1:before{ content:url('/assets/img/uploads/plain.png')}
+
+
